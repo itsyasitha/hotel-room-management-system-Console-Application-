@@ -1,4 +1,4 @@
-# Hotel Room Management System (Terminal Application)
+# Hotel Room Management System (Command-line application)
 
 A simple C++ console application for managing hotel room reservations. This program allows users to:
 
