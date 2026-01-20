@@ -1,6 +1,6 @@
 # Hotel Room Management System (Command-line application)
 
-A simple C++ console application for managing hotel room reservations. This program allows users to:
+A C++ console application for managing hotel room reservations. This program allows users to:
 
 * Check room availability
 * Reserve rooms of different types
