@@ -26,7 +26,7 @@ int main() {
     cout << " Penthouses available: ";
     cin >> QPenthouse;
 
-m: // jump label for menu
+m: 
 
     cout << "\n\n\t\t Please select what type of room you want to reserve:";
     cout << "\n\n1) Single Room";
@@ -162,3 +162,4 @@ m: // jump label for menu
 
     return 0;
 }
+
